@@ -1,6 +1,3 @@
-<iframe src="https://giphy.com/embed/NnMH7LDpZTPZS" width="480" height="259" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/raining-scenery-NnMH7LDpZTPZS">via GIPHY</a></p>
-
-
 
 <h1 align="center">Hi 👋, I'm the friendly neighbourhood TechMaster Yamukelwa Msimango</h1>
 <h3 align="center">Kicking bugs and restoring code to it's true form is the only thing i know!</h3>
