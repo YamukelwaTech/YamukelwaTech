@@ -1,4 +1,4 @@
-  <img src="https://media.giphy.com/media/3MTQxYZeiDm12/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/3MTQxYZeiDm12/giphy.gif" width="400" align:center />
   
 <h1 align="center">Hi 👋, I'm the friendly neighbourhood TechMaster Yamukelwa Msimango</h1>
 <h3 align="center">Kicking bugs and restoring code to it's true form is the only thing i know!</h3>
