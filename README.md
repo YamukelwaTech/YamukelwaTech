@@ -1,5 +1,5 @@
 <div>
-  <iframe src="https://giphy.com/embed/3MTQxYZeiDm12" width="480" height="259" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/studio-ghibli-hayao-miyazaki-3MTQxYZeiDm12">via GIPHY</a></p>
+ img: https://media.giphy.com/media/3MTQxYZeiDm12/giphy.gif
 </div>
 
 <h1 align="center">Hi 👋, I'm the friendly neighbourhood TechMaster Yamukelwa Msimango</h1>
