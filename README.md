@@ -1,4 +1,4 @@
-![MasterHead](https://giphy.com/embed/NnMH7LDpZTPZS)
+<iframe src="https://giphy.com/embed/NnMH7LDpZTPZS" width="480" height="259" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/raining-scenery-NnMH7LDpZTPZS">via GIPHY</a></p>
 
 
 
