@@ -1,7 +1,5 @@
-<div>
- img: https://media.giphy.com/media/3MTQxYZeiDm12/giphy.gif
-</div>
-
+  <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="100"/>
+  
 <h1 align="center">Hi 👋, I'm the friendly neighbourhood TechMaster Yamukelwa Msimango</h1>
 <h3 align="center">Kicking bugs and restoring code to it's true form is the only thing i know!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=YamukelwaTech&label=Profile%20views&color=0e75b6&style=flat" alt="YamukelwaTech" /> </p>
