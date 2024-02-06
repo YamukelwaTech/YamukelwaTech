@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/3MTQxYZeiDm12/giphy.gif" width="400" align:center />
+  <img src="https://media.giphy.com/media/3MTQxYZeiDm12/giphy.gif" width="600" align:center />
 </div>
 
 <h1 align="center">Hi 👋, I'm the friendly neighbourhood TechMaster Yamukelwa Msimango</h1>
