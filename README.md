@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm the friendly neighbourhood TechMaster Yamukelwa Msimango</h1>
-<h3 align="center">Kicking bugs and restoring code to it's true form is the only thing i know!</h3>
+<h3 align="center">Kicking bugs and restoring code to its true form is the only thing i know!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=YamukelwaTech&label=Profile%20views&color=0e75b6&style=flat" alt="YamukelwaTech" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=YamukelwaTech&theme=dark_lover" alt="YamukelwaTech" /></a> </p>
