@@ -1,33 +1,32 @@
-[![Header]( https://www.behance.net/gallery/110271325/Anime-Headers/modules/722530023"Header")]()
+[![Header](https://www.behance.net/gallery/110271325/Anime-Headers/modules/722530023"Header")]()
 
-# Calling all **code warriors & coding gremlins unleashed!** ⌨️ 
+# Calling all **code warriors & coding gremlins unleashed!** ⌨️
 
-I am on a quest to become a **walking encyclopedia of tech**, fueled by endless curiosity and enough coffee to power a small village. ☕️ I spend my days wrangling code like a digital shepherd, and nights, well, let's just say the coding gremlins get unleashed!   
+I am on a quest to become a **walking encyclopedia of tech**, fueled by endless curiosity and enough coffee to power a small village. ☕️ I spend my days wrangling code like a digital shepherd, and nights, well, let's just say the coding gremlins get unleashed!
 
-My ultimate goal? To become your personal tech guru, and my **repositories** are overflowing with the fruits of my digital labor. So, if you're ever lost in the land of ones and zeros, fear not! I'm just a click away, ready to shed light on the mysteries of the tech world.  Don't hesitate to **check them out** and see what adventures await! 
-
+My ultimate goal? To become your personal tech guru, and my **repositories** are overflowing with the fruits of my digital labor. So, if you're ever lost in the land of ones and zeros, fear not! I'm just a click away, ready to shed light on the mysteries of the tech world. Don't hesitate to **check them out** and see what adventures await!
 
 <!-- Checkout <a href="">My Resume</a>. -->
 <!-- will use to uploud future cv -->
 
-<br><img alt="Night Coding" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHRiazMzbmV3eGpqdm5wMnBkeTQ5a2pndmJhdG5jZzJ3MXNwZ3dqYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" align="right" width="400"/> 
+<br><img alt="Night Coding" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHRiazMzbmV3eGpqdm5wMnBkeTQ5a2pndmJhdG5jZzJ3MXNwZ3dqYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" align="right" width="400"/>
 
 ### 🛠 &nbsp;Technologies & Tools
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; 
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
-
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 <br>
 
 ## ⚙️ &nbsp;GitHub Analytics
+
 <p align="center">
 <a href="https://github.com/Abhijith14">
   <img height="180em" src="https://github-profile-trophy.vercel.app/?username=Abhijith14&title=MultiLanguage,Organizations,Stars,Commits,Repositories,Experience,Followers,PullRequest&theme=tokyonight"/>  
@@ -57,13 +56,13 @@ My ultimate goal? To become your personal tech guru, and my **repositories** are
 <br>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abhijith14&repo=ML-MAS-Framework&theme=tokyonight)](https://github.com/Abhijith14/ML-MAS-Framework)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abhijith14&repo=SnakeGame-ML&theme=dark)](https://github.com/Abhijith14/SnakeGame-ML) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abhijith14&repo=SnakeGame-ML&theme=dark)](https://github.com/Abhijith14/SnakeGame-ML)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abhijith14&repo=Discord-Bot&theme=prussian)](https://github.com/Abhijith14/discord-bot)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abhijith14&repo=Footalytics&theme=vue-dark)](https://github.com/Abhijith14/Footalytics) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abhijith14&repo=Footalytics&theme=vue-dark)](https://github.com/Abhijith14/Footalytics)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abhijith14&repo=ModernCalculatorVB&theme=radical)](https://github.com/Abhijith14/ModernCalculatorVB)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abhijith14&repo=StockManagement-Csharp&theme=merko)](https://github.com/Abhijith14/StockManagement-Csharp)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abhijith14&repo=Calculator-App&theme=nightowl)](https://github.com/Abhijith14/Calculator-App)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abhijith14&repo=Portfolio-v2&theme=tokyonight)](https://github.com/Abhijith14/Portfolio-v2) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abhijith14&repo=Portfolio-v2&theme=tokyonight)](https://github.com/Abhijith14/Portfolio-v2)
 
 <br>
 
@@ -79,7 +78,6 @@ My ultimate goal? To become your personal tech guru, and my **repositories** are
 <a href="https://twitter.com/AbhijithUdayak1"><img src="https://img.shields.io/badge/-@AbhijithUdayak1-4D9FEB?style=flat&logo=twitter&logoColor=white"/></a>
 <a href="https://www.kaggle.com/abhijithudayakumar"><img src="https://img.shields.io/badge/-@abhijithudayakumar-1769FF?style=flat&logo=Kaggle&logoColor=white"/></a>
 </p>
-
 
 <!-- links to your social media accounts -->
 
