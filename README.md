@@ -24,16 +24,15 @@ My ultimate goal? To become your personal tech guru, and my **repositories** are
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)&nbsp;
 
-
 <br><br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/YamukelwaTech">
-  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=Abhijith14&title=MultiLanguage,Organizations,Stars,Commits,Repositories,Experience,Followers,PullRequest&theme=tokyonight"/>  
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YamukelwaTech&theme=tokyonight&hide_border=false"/>
+<p align="right">
+<a href="https://github.com/YamukelwaTech">  
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YamukelwaTech&theme=tokyonight&hide_border=false"/></p>
   <br>
+  <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YamukelwaTech&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"/>
 </a>
 </p>
