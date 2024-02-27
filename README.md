@@ -1,6 +1,6 @@
-[![Header]( "Header")]()
+[![Header]( https://www.behance.net/gallery/110271325/Anime-Headers/modules/722530023"Header")]()
 
-# YamukelwaTech, calling all **code warriors & coding gremlins unleashed!** ⌨️ 
+# Calling all **code warriors & coding gremlins unleashed!** ⌨️ 
 
 My name is Abhijith Udayakumar and I'm an **accomplished AI and Python expert** with several years of experience driving innovation across numerous projects. **Award-winning specialist in computer vision, NLP, and automation. Led high-impact initiatives** elevating user experiences. **Proven record delivering transformation** through cutting-edge solutions focused on business value. **Passionate about advancing technologies and elevating teams.** 
 
