@@ -28,7 +28,7 @@ My ultimate goal? To become your personal tech guru, and my **repositories** are
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/Abhijith14">
+<a href="https://github.com/YamukelwaTech">
   <img height="180em" src="https://github-profile-trophy.vercel.app/?username=Abhijith14&title=MultiLanguage,Organizations,Stars,Commits,Repositories,Experience,Followers,PullRequest&theme=tokyonight"/>  
   <!-- https://github-readme-stats-eight-theta.vercel.app/api?username=Abhijith14&show_icons=true&theme=algolia&include_all_commits=true&count_private=true -->
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhijith14&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true"/> -->
