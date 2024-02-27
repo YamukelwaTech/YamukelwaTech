@@ -10,13 +10,6 @@ My ultimate goal? To become your personal tech guru, and my **repositories** are
 <!-- Checkout <a href="">My Resume</a>. -->
 <!-- will use to uploud future cv -->
 
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Abhijith14&repo=Abhijith14&countColorcountColor&countColor=#00008b)
-
-<!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/Abhijith14/Abhijith14/master/assets/avento.gif" align="right" width=400 />-->
-<!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/Abhijith14/Abhijith14/master/assets/coding.gif" align="right" width=400 /> -->
-<br>
-
-<!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/Abhijith14/Abhijith14/master/assets/code.gif" align="right"/>  -->
 <img alt="Night Coding" src="https://raw.githubusercontent.com/Abhijith14/Abhijith14/master/coder.gif" align="right" width="400"/> 
 
 ### 🛠 &nbsp;Technologies & Tools
