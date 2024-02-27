@@ -2,7 +2,10 @@
 
 # Calling all **code warriors & coding gremlins unleashed!** ⌨️ 
 
-My name is Abhijith Udayakumar and I'm an **accomplished AI and Python expert** with several years of experience driving innovation across numerous projects. **Award-winning specialist in computer vision, NLP, and automation. Led high-impact initiatives** elevating user experiences. **Proven record delivering transformation** through cutting-edge solutions focused on business value. **Passionate about advancing technologies and elevating teams.** 
+I am on a quest to become a **walking encyclopedia of tech**, fueled by endless curiosity and enough coffee to power a small village. ☕️ I spend my days wrangling code like a digital shepherd, and nights, well, let's just say the coding gremlins get unleashed!   
+
+My ultimate goal? To become your personal tech guru, and my **repositories** are overflowing with the fruits of my digital labor. So, if you're ever lost in the land of ones and zeros, fear not! I'm just a click away, ready to shed light on the mysteries of the tech world.  Don't hesitate to **check them out** and see what adventures await! 
+
 
 <!-- Checkout <a href="">My Resume</a>. -->
 <!-- will use to uploud future cv -->
