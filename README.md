@@ -39,7 +39,7 @@ My ultimate goal? To become your personal tech guru, and my **repositories** are
 
 <br>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yamukelwatech&repo=DiamondTech&theme=merko)](yamukelwatech.github.io/DiamondTech)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yamukelwatech&repo=DiamondTech&theme=merko)](https://github.com/YamukelwaTech/DiamondTech)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abhijith14&repo=SnakeGame-ML&theme=merko)](https://github.com/Abhijith14/SnakeGame-ML)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abhijith14&repo=Discord-Bot&theme=merko)](https://github.com/Abhijith14/discord-bot)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abhijith14&repo=Footalytics&theme=merko)](https://github.com/Abhijith14/Footalytics)
