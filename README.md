@@ -2,7 +2,9 @@
   <img src="https://media.giphy.com/media/3MTQxYZeiDm12/giphy.gif" width="700" align:center />
 </div>
 
-<h3 align="center">Kicking bugs and restoring code to its true form is the only thing i know!</h3>
+<h3 align="center">
+
+**Coffee-fueled code warrior by day, meme lord by night. I fix bugs faster than you can say "syntax error," all while keeping the team chill (except for merge conflicts, those are brutal).** ☕️</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=YamukelwaTech&label=Profile%20views&color=0e75b6&style=flat" alt="YamukelwaTech" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=YamukelwaTech&theme=dark_lover" alt="YamukelwaTech" /></a> </p>
