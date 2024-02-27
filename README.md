@@ -39,14 +39,14 @@ My ultimate goal? To become your personal tech guru, and my **repositories** are
 
 <br>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yamukelwatech&repo=DiamondTech&theme=tokyonight)](yamukelwatech.github.io/DiamondTech)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abhijith14&repo=SnakeGame-ML&theme=dark)](https://github.com/Abhijith14/SnakeGame-ML)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abhijith14&repo=Discord-Bot&theme=prussian)](https://github.com/Abhijith14/discord-bot)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abhijith14&repo=Footalytics&theme=vue-dark)](https://github.com/Abhijith14/Footalytics)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abhijith14&repo=ModernCalculatorVB&theme=radical)](https://github.com/Abhijith14/ModernCalculatorVB)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yamukelwatech&repo=DiamondTech&theme=merko)](yamukelwatech.github.io/DiamondTech)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abhijith14&repo=SnakeGame-ML&theme=merko)](https://github.com/Abhijith14/SnakeGame-ML)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abhijith14&repo=Discord-Bot&theme=merko)](https://github.com/Abhijith14/discord-bot)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abhijith14&repo=Footalytics&theme=merko)](https://github.com/Abhijith14/Footalytics)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abhijith14&repo=ModernCalculatorVB&theme=merko)](https://github.com/Abhijith14/ModernCalculatorVB)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abhijith14&repo=StockManagement-Csharp&theme=merko)](https://github.com/Abhijith14/StockManagement-Csharp)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abhijith14&repo=Calculator-App&theme=nightowl)](https://github.com/Abhijith14/Calculator-App)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abhijith14&repo=Portfolio-v2&theme=tokyonight)](https://github.com/Abhijith14/Portfolio-v2)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abhijith14&repo=Calculator-App&theme=merko)](https://github.com/Abhijith14/Calculator-App)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abhijith14&repo=Portfolio-v2&theme=merko)](https://github.com/Abhijith14/Portfolio-v2)
 
 <br>
 
