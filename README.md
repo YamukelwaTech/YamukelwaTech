@@ -34,15 +34,6 @@ My ultimate goal? To become your personal tech guru, and my **repositories** are
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YamukelwaTech&theme=merko&show_icons=true&hide_border=false&layout=compact"/>
 </p>
 
-## 💻 &nbsp;Trending Repos
-
-<br>
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yamukelwatech&repo=DiamondTech&theme=merko)](https://github.com/YamukelwaTech/DiamondTech)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yamukelwatech&repo=Melsoft-Form&theme=merko)](https://github.com/YamukelwaTech/Melsoft-Form)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yamukelwatech&repo=MelsoftPage&theme=merko)](https://github.com/YamukelwaTech/MelsoftPage)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yamukelwatech&repo=NotableSockwear&theme=merko)](https://github.com/YamukelwaTech/NotableSockwear)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Moe-2&repo=Southern-Beauty&theme=merko)](https://github.com/Moe-2/Southern-Beauty)
 
 ## 🤝🏻 &nbsp;Connect with Me
 
