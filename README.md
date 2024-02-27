@@ -47,18 +47,8 @@ My ultimate goal? To become your personal tech guru, and my **repositories** are
 ## 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://abhijith14.github.io/Portfolio-v2/"><img src="https://img.shields.io/badge/-My%20Portfolio-ff0000?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.createwithbuddy.tech"><img src="https://img.shields.io/badge/-Create%20With%20BUDDY-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/abhijith-udayakumar-6372b91a3/"><img src="https://img.shields.io/badge/-Abhijith%20Udayakumar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:abhijithukzm@gmail.com"><img src="https://img.shields.io/badge/-abhijithukzm@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/a_b_h_i_j_i_t_h._.14"><img src="https://img.shields.io/badge/-@a_b_h_i_j_i_t_h._.14-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/abhijith.udayakumar.14"><img src="https://img.shields.io/badge/-@abhijith.udayakumar.14-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://twitter.com/AbhijithUdayak1"><img src="https://img.shields.io/badge/-@AbhijithUdayak1-4D9FEB?style=flat&logo=twitter&logoColor=white"/></a>
-<a href="https://www.kaggle.com/abhijithudayakumar"><img src="https://img.shields.io/badge/-@abhijithudayakumar-1769FF?style=flat&logo=Kaggle&logoColor=white"/></a>
+<!-- <a href="https://abhijith14.github.io/Portfolio-v2/"><img src="https://img.shields.io/badge/-My%20Portfolio-ff0000?style=flat&logo=Google-Chrome&logoColor=white"/></a> -->
+<a href="https://www.linkedin.com/in/yamukelwa-msimango-/"><img src="https://img.shields.io/badge/-Abhijith%20Udayakumar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:yammsimango@gmail.com"><img src="https://img.shields.io/badge/-abhijithukzm@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+
 </p>
-
-<!-- links to your social media accounts -->
-
-[1]: https://twitter.com/AbhijithUdayak1
-[2]: https://github.com/Abhijith14
-[3]: https://www.linkedin.com/in/abhijith-udayakumar-6372b91a3/
