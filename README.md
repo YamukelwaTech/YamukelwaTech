@@ -23,7 +23,6 @@ My ultimate goal? To become your personal tech guru, and my **repositories** are
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-
 <br><br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
@@ -40,15 +39,10 @@ My ultimate goal? To become your personal tech guru, and my **repositories** are
 <br>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yamukelwatech&repo=DiamondTech&theme=merko)](https://github.com/YamukelwaTech/DiamondTech)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abhijith14&repo=SnakeGame-ML&theme=merko)](https://github.com/Abhijith14/SnakeGame-ML)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abhijith14&repo=Discord-Bot&theme=merko)](https://github.com/Abhijith14/discord-bot)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abhijith14&repo=Footalytics&theme=merko)](https://github.com/Abhijith14/Footalytics)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abhijith14&repo=ModernCalculatorVB&theme=merko)](https://github.com/Abhijith14/ModernCalculatorVB)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abhijith14&repo=StockManagement-Csharp&theme=merko)](https://github.com/Abhijith14/StockManagement-Csharp)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abhijith14&repo=Calculator-App&theme=merko)](https://github.com/Abhijith14/Calculator-App)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abhijith14&repo=Portfolio-v2&theme=merko)](https://github.com/Abhijith14/Portfolio-v2)
-
-<br>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yamukelwatech&repo=Melsoft-Form&theme=merko)](https://github.com/YamukelwaTech/Melsoft-Form)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yamukelwatech&repo=MelsoftPage&theme=merko)](https://github.com/YamukelwaTech/MelsoftPage)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yamukelwatech4&repo=NotableSockwear&theme=merko)](https://github.com/YamukelwaTech/NotableSockwear)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yamukelwatech4&repo=Southern-Beauty&theme=merko)](https://github.com/Moe-2/Southern-Beauty)
 
 ## 🤝🏻 &nbsp;Connect with Me
 
