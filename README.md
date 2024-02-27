@@ -23,7 +23,7 @@ My ultimate goal? To become your personal tech guru, and my **repositories** are
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<br>
+<br><br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
