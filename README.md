@@ -32,25 +32,11 @@ My ultimate goal? To become your personal tech guru, and my **repositories** are
 <p align="center">
 <a href="https://github.com/YamukelwaTech">
   <img height="180em" src="https://github-profile-trophy.vercel.app/?username=Abhijith14&title=MultiLanguage,Organizations,Stars,Commits,Repositories,Experience,Followers,PullRequest&theme=tokyonight"/>  
-  <!-- https://github-readme-stats-eight-theta.vercel.app/api?username=Abhijith14&show_icons=true&theme=algolia&include_all_commits=true&count_private=true -->
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhijith14&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true"/> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijith14&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="![YamukelwaTech's Streak](https://github-readme-streak-stats.herokuapp.com/?user=YamukelwaTech&theme=tokyonight&hide_border=false)"/>
   <br>
-  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=Abhijith14&theme=tokyonight"/>
+  <img height="180em" src="![YamukelwaTech's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YamukelwaTech&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)"/>
 </a>
 </p>
-<!-- </details> -->
-<!--<br>
-<details>
-    <summary>Github Stats with Streak</summary>
-    <br>
-    <p align="center">
-        <a href="https://github.com/Abhijith14">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhijith14&theme=algolia" alt="Abhijith's GitHub Languages"/>
-            <img src="https://github-profile-trophy.vercel.app/?username=Abhijith14&title=Commit,Stars,Repositories,PullRequest,Followers&theme=darkhub" alt="Abhijith's GitHub Stats" />
-        </a>
-    </p>
-</details> -->
 <br>
 
 ## 💻 &nbsp;Trending Repos
