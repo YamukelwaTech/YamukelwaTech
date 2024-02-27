@@ -32,9 +32,9 @@ My ultimate goal? To become your personal tech guru, and my **repositories** are
 <p align="center">
 <a href="https://github.com/YamukelwaTech">
   <img height="180em" src="https://github-profile-trophy.vercel.app/?username=Abhijith14&title=MultiLanguage,Organizations,Stars,Commits,Repositories,Experience,Followers,PullRequest&theme=tokyonight"/>  
-  <img height="180em" src="![YamukelwaTech's Streak](https://github-readme-streak-stats.herokuapp.com/?user=YamukelwaTech&theme=tokyonight&hide_border=false)"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YamukelwaTech&theme=tokyonight&hide_border=false"/>
   <br>
-  <img height="180em" src="![YamukelwaTech's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YamukelwaTech&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YamukelwaTech&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"/>
 </a>
 </p>
 <br>
