@@ -1,6 +1,6 @@
 [![Header](./ai-generated-8584142.jpg)]()
 
-# Calling all **code warriors & coding gremlins unleashed!** ⌨️
+# The name's YamukelwaTech, and I'm one with the code! Let's build something awesome together!
 
 I am on a quest to become a **walking encyclopedia of tech**, fueled by endless curiosity and enough coffee to power a small village. ☕️ I spend my days wrangling code like a digital shepherd, and nights, well, let's just say the coding gremlins get unleashed!
 
