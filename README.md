@@ -9,7 +9,7 @@ My ultimate goal? To become your personal tech guru, and my **repositories** are
 <!-- Checkout <a href="">My Resume</a>. -->
 <!-- will use to uploud future cv -->
 
-<br><img alt="Night Coding" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHRiazMzbmV3eGpqdm5wMnBkeTQ5a2pndmJhdG5jZzJ3MXNwZ3dqYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" align="right" width="400"/>
+<br><img alt="Night Coding" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzUyYWR5cGE1MDczNjQzcW5jaTdwMHZnbmx2dHducnMzcGJobjN0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4TtTVTmBoXp8txRU0C/giphy.gif" align="right" width="400"/>
 
 ### 🛠 &nbsp;Technologies & Tools
 
