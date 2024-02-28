@@ -40,6 +40,6 @@ My ultimate goal? To become your personal tech guru, and my **repositories** are
 <p align="left">
 <!-- <a href="https://abhijith14.github.io/Portfolio-v2/"><img src="https://img.shields.io/badge/-My%20Portfolio-ff0000?style=flat&logo=Google-Chrome&logoColor=white"/></a> -->
 <!-- <a href="https://www.linkedin.com/in/yamukelwa-msimango-/"><img src="https://img.shields.io/badge/-YamukelwaTech-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> -->
-<a href="mailto:yammsimango@gmail.com"><img src="https://img.shields.io/badge/-yammsimango@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<!-- <a href="mailto:yammsimango@gmail.com"><img src="https://img.shields.io/badge/-yammsimango@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a> -->
 
-</p> -->
+<!-- </p> --> 
