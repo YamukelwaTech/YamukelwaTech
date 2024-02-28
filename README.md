@@ -29,9 +29,9 @@ My ultimate goal? To become your personal tech guru, and my **repositories** are
 
 <p style="display: flex; justify-content: space-between;">
   <a href="https://github.com/YamukelwaTech">  
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YamukelwaTech&theme=merko&hide_border=false"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YamukelwaTech&theme=moltack&hide_border=false"/>
   </a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YamukelwaTech&theme=merko&show_icons=true&hide_border=false&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YamukelwaTech&theme=moltack&show_icons=true&hide_border=false&layout=compact"/>
 </p>
 
 
