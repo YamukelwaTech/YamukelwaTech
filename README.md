@@ -25,14 +25,14 @@ My ultimate goal? To become your personal tech guru, and my **repositories** are
 
 <br><br><br>
 
-## ⚙️ &nbsp;GitHub Analytics
+<!-- ## ⚙️ &nbsp;GitHub Analytics
 
 <p style="display: flex; justify-content: space-between;">
-  <a href="https://github.com/YamukelwaTech">  
+  <a href="https://github.com/YamukelwaTech">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YamukelwaTech&theme=moltack&hide_border=false"/>
   </a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YamukelwaTech&theme=moltack&show_icons=true&hide_border=false&layout=compact"/>
-</p>
+</p> -->
 
 
 <!-- ## 🤝🏻 &nbsp;Connect with Me
@@ -42,4 +42,4 @@ My ultimate goal? To become your personal tech guru, and my **repositories** are
 <!-- <a href="https://www.linkedin.com/in/yamukelwa-msimango-/"><img src="https://img.shields.io/badge/-YamukelwaTech-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> -->
 <!-- <a href="mailto:yammsimango@gmail.com"><img src="https://img.shields.io/badge/-yammsimango@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a> -->
 
-<!-- </p> --> 
+<!-- </p> -->
