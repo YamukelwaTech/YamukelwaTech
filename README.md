@@ -1,6 +1,6 @@
 [![Header](img/Krillin%20Desktop%20Wallpaper.jpg)]()
 
-# The name is YamukelwaTech, and I'm one with the code! Let's build something awesome together!
+# Hey there! YamukelwaTech with you. Great of you to pop by, Let's find some dragon balls together and wish to know all code !
 
 I am on a quest to become a **walking encyclopedia of tech**, fueled by endless curiosity and enough coffee to power a small village. ☕️ I spend my days wrangling code like a digital shepherd, and nights, well, let's just say the coding gremlins get unleashed!
 
