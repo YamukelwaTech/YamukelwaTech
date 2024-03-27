@@ -1,6 +1,7 @@
 [![Header](img/Krillin%20Desktop%20Wallpaper.jpg)]()
 
-Hey there! I'm glad you stumbled upon my GitHub, but hold on, don't leave just yet. I promise it's full of goodies and surprises. 😄 Just kidding! It's actually a collection of my personal projects that I've been diligently working on and hope to perfect over time. If you happen to find something off, no worries, I'll patch it up! Life has me feeling like I'm on a quest for some Dragon Balls. 🐉
+(```
+Hey there! I'm glad you stumbled upon my GitHub, but hold on, don't leave just yet. I promise it's full of goodies and surprises. 😄 Just kidding! It's actually a collection of my personal projects that I've been diligently working on and hope to perfect over time. If you happen to find something off, no worries, I'll patch it up! Life has me feeling like I'm on a quest for some Dragon Balls. 🐉```)
 
 
 
