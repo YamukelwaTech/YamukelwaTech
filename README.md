@@ -1,15 +1,14 @@
 [![Header](img/Krillin%20Desktop%20Wallpaper.jpg)]()
 
-# Hey there! YamukelwaTech with you. Let's find some dragon balls together and wish to know all code !
+# Let's find some dragon balls together and wish to know all code !
 
-I am on a quest to become a **walking encyclopedia of tech**, fueled by endless curiosity and enough coffee to power a small village. ☕️ I spend my days wrangling code like a digital shepherd, and nights, well, let's just say the coding gremlins get unleashed!
+I am on a quest to become a **walking encyclopedia of tech**, fueled by endless curiosity and enough coffee to power a small village. ☕️
 
-My ultimate goal? To become your personal tech guru, and my **repositories** are overflowing with the fruits of my digital labor. So, if you're ever lost in the land of ones and zeros, fear not! I'm just a click away, ready to shed light on the mysteries of the tech world. Don't hesitate to **check them out** and see what adventures await!
+My **repositories** are overflowing with the fruits of my digital labor. So, if you're ever lost in the land of ones and zeros, fear not! I'm just a click away, ready to shed light on the mysteries of the tech world. Don't hesitate to **check them out** and see what adventures await!
 
-<!-- Checkout <a href="">My Resume</a>. -->
-<!-- will use to uploud future cv -->
 
-<br><img alt="Night Coding" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzUyYWR5cGE1MDczNjQzcW5jaTdwMHZnbmx2dHducnMzcGJobjN0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4TtTVTmBoXp8txRU0C/giphy.gif" align="right" width="400"/>
+
+<br><img alt="Night Coding" src="img/Dune Paul Atreides GIF.gif" align="right" width="400"/>
 
 ### 🛠 &nbsp;Technologies & Tools
 
