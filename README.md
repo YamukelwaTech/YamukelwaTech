@@ -1,6 +1,7 @@
-# 👨🏾‍💻 YamukelwaTech
+# YamukelwaTech
 
 **`Wandering Chessmaster(Developer/Creator/chess)`**<br>
+
 <small>I'm an SA full-stack developer, occasional content creator, crafting my digital world one step at a time. Each project starts from scratch, from planning to problem-solving.</small>
 
 ---
