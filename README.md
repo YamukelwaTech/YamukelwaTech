@@ -1,8 +1,8 @@
 # 👨🏾‍💻 YamukelwaTech
 
 **`Wandering Chessmaster(Developer/Creator/chess)`**
+<small>I'm an SA full-stack developer, occasional content creator, crafting my digital world one step at a time. Each project starts from scratch, from planning to problem-solving.</small>
 
-#I'm an SA full-stack developer, sometimes content creator on a good bug-free day. I am building versions of my digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving the problems I face.
 ---
 
 [![Header](img/Krillin%20Desktop%20Wallpaper.jpg)]()
