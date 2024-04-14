@@ -9,6 +9,10 @@
 [![Header](img/Krillin%20Desktop%20Wallpaper.jpg)]()
 
 ---
+## Demo
+
+![Demo GIF](img/Dune%20Paul%20Atreides%20GIF.gif)
+
 
 <!-- <br><img alt="Night Coding" src="img/Dune Paul Atreides GIF.gif" align="right" width="400"/>
 
