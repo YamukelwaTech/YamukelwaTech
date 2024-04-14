@@ -6,12 +6,13 @@
 
 ---
 
-[![Header](img/Krillin%20Desktop%20Wallpaper.jpg)]()
+![Demo GIF](img/Dune%20Paul%20Atreides%20GIF.gif)
 
 ---
-## Demo
 
-![Demo GIF](img/Dune%20Paul%20Atreides%20GIF.gif)
+
+<!-- [![Header](img/Krillin%20Desktop%20Wallpaper.jpg)]() -->
+
 
 
 <!-- <br><img alt="Night Coding" src="img/Dune Paul Atreides GIF.gif" align="right" width="400"/>
