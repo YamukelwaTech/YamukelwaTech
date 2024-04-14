@@ -6,9 +6,7 @@
 
 ---
 
-1. ![Wallpaper 1](img/ai-generated-8584142.jpg)
-2. ![Wallpaper 2](img/Naruto%20Uzumaki%20Jiraiya%20Wallpaper.jpg)
-3. ![Wallpaper 3](img/Krillin%20Desktop%20Wallpaper.jpg)
+![Demo GIF](img/Dune%20Paul%20Atreides%20GIF.gif)
 
 ---
 
