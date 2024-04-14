@@ -2,7 +2,7 @@
 
 **`Wandering Chessmaster(Developer/Creator/chess)`**<br>
 
-<small>I'm an SA full-stack developer, occasional content creator, crafting my digital world one step at a time. Each project starts from scratch, from planning to problem-solving.</small>
+<small>Hey there 👋 Firstly, I just want to say that I will beat you in chess. Secondly, welcome! I'm a South African full-stack developer with a dream of maybe one day beating Magnus. I dwell in content creation and immerse myself in the creation of my digital world one step at a time. So please feel free to zoom around and hmu if you need more clarification!</small>
 
 ---
 
