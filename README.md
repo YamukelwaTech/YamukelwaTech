@@ -9,6 +9,8 @@ Firstly, Lets play a game of chess!  I will beat you 😅. Secondly, welcome! I'
 
 ---
 
-<img src="img/Dune%20Paul%20Atreides%20GIF.gif" alt="Demo GIF" loading="lazy">
+<img src="img/Rick and Morty Field Wallpaper.jpg" loading="lazy">
 
 ---
+
+chess.com account : Yamukelwa ♛
