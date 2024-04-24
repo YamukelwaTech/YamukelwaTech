@@ -13,4 +13,4 @@ Firstly, Lets play a game of chess!  I will beat you 😅. Secondly, welcome! I'
 
 ---
 
-chess.com account : Yamukelwa ♛
+chess.com username : Yamukelwa
