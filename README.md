@@ -9,7 +9,7 @@
 
 ---
 
-<img src="img/Rick and Morty Field Wallpaper.jpg" loading="lazy">
+<img src="./assets/naruto-aesthetic-jiraiya-anime-desktop-wallpaper.jpg" loading="lazy">
 
 ---
 
