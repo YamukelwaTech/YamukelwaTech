@@ -10,4 +10,4 @@ I'm a South African 🇿🇦 Software Engineer. I dwell in content creation and 
 
 ---
 
-[Click here to see website](https://yamukelwatech.netlify.app/)
+[Click here to see my website](https://yamukelwatech.netlify.app/)
