@@ -9,7 +9,7 @@
 
 ---
 
-<img src="./assets/japanese-pagoda-green-mountains-desktop-wallpaper.jpg" loading="lazy">
+<img src="./assets/Luffy Drowning Wallpaper.jpg" loading="lazy">
 
 ---
 
