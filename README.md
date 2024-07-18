@@ -2,6 +2,6 @@
 
 ---
 
-##### I'm a South African 🇿🇦 Software Engineer. I dwell in content creation and immerse myself in the birth of my digital world one step at a time, In my free time i love playing chess so please feel free to challange me or zoom around and message me through mail if you need more clarification on any of my projects or if you would love to know more check out my website! [YamukelwaTech](https://yamukelwatech.netlify.app/)
+#### I'm a South African 🇿🇦 Software Engineer. I love creating content and immersing myself in the digital world. In my free time, I enjoy playing chess and exploring new technologies. Feel free to challenge me or reach out via email if you need more information about my projects. If you'd like to see more of my portfolio, click the link in the profile section. For my fellow chess enthusiasts, you can find me on chess.com with the username "Yamukelwa."
 
 ---
