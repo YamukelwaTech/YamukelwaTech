@@ -2,8 +2,7 @@
 
 ---
 
-#### - I'm a South African 🇿🇦 Software Engineer.
-#### - I love creating content and immersing myself in the digital world.
+#### - I'm a South African 🇿🇦 Software Engineer, I love creating content and immersing myself in the digital world.
 #### - In my free time, I enjoy:
  - Playing chess
  - Exploring new technologies
