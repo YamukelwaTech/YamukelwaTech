@@ -1,4 +1,4 @@
-<img src="./assets/Geometric Graphic LinkedIn Banner.png" loading="lazy">
+<img src="./assets/Github.png" loading="lazy">
 
 ---
 
