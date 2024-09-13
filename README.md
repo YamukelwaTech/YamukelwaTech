@@ -5,4 +5,4 @@
   />
 </a>
 
-[Learn more about me](https://kentcdodds.com/about)
+[Learn more about me](https://yamukelwatech.netlify.app/)
